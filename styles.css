@@ -1,0 +1,14 @@
+h3 {
+    font-size: 30px;
+  }
+  h1{ 
+    color: #16df34;
+  }
+  header {
+    background-color: rgb(198, 97, 3);
+}
+header,div { text-align: center }
+div.title {
+    background-color: yellow; text-align: left;
+  }
+  nav> .link {color: #16df34;}
